@@ -1,0 +1,15 @@
+.hero{
+    background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+}
+.hero-left{
+    flex: 1;
+}
+
+.hero-left p{
+    color: #171717;
+    font-weight: 700;
+}
+
+.hero-right{
+    flex:1;
+}
